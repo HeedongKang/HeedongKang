@@ -16,6 +16,8 @@
 - ✒️ **Signature-APP** – Contract Management Application
 - ✝️ **Elovate Solution** – Christian IT Solution  
 - 🛒 **Search&Buy Shop** – E-Commerce Platform
-- ⚙️ **Kubernetes DevOps Workflow** – CI/CD & Cloud-Native Automation  
+- ⚙️ **Kubernetes DevOps Workflow** – CI/CD & Cloud-Native Automation
+- 🤖 **RPA Workflow Automation** – Business Process Automation with RPA  
+
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer)
