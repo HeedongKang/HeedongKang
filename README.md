@@ -15,6 +15,7 @@
 - 📱 **KBS-APP** – Management Consulting Application
 - ✒️ **Signature-APP** – Contract Management Application
 - ✝️ **Elovate Solution** – Christian IT Solution  
-- 🛒 **Search&Buy Shop** – E-Commerce Platform  
+- 🛒 **Search&Buy Shop** – E-Commerce Platform
+- ⚙️ **Kubernetes DevOps Workflow** – CI/CD & Cloud-Native Automation  
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer)
